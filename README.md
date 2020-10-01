@@ -1,2 +1,2 @@
 # Code-Scanner
-Flutter App for Barcode and QR Code Scanning
+A Beautiful Flutter App for Barcode and QR Code Scanning
